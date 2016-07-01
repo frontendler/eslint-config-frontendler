@@ -1,0 +1,24 @@
+{
+    "name": "eslint-config-google",
+    "version": "0.6.0",
+    "description": "ESLint shareable config for the Google style",
+    "license": "Apache-2",
+    "repository": "google/eslint-config-google",
+    "author": {
+        "name": "Daniel Beff",
+        "email": "daniel.beff@gmail.com",
+        "url": "http://www.danielbeff.com.br"
+    },
+    "keywords": [
+        "frontendler",
+        "lint",
+        "linter",
+        "jscs",
+        "jshint",
+        "jslint",
+        "eslint",
+        "check",
+        "checker",
+        "hint"
+    ]
+}
