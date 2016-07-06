@@ -1,9 +1,9 @@
 {
     "name": "eslint-config-frontendler",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "ESLint shareable config for Frontendler",
     "license": "MIT",
-    "repository": "dbeff/eslint-config-frontendler",
+    "repository": "frontendler/eslint-config-frontendler",
     "author": {
         "name": "Daniel Beff",
         "email": "daniel.beff@gmail.com",
